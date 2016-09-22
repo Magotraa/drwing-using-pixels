@@ -4,5 +4,5 @@ void main()
 {
 
 	std::cout << "Hello world!!" << std::endl;
-	//system("pause");
+	system("pause");
 }
